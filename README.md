@@ -1,5 +1,5 @@
 # grabber
-## A simple windows/linux keylogger that pays attention to detail.
+## A simple windows/linux keylogger
 
 ### Features
 
